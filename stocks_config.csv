@@ -1,0 +1,4 @@
+symbol,name,scrip_id,segment,lot_size,enabled
+NIFTY,Nifty 50,13,IDX_I,75,true
+BANKNIFTY,Bank Nifty,25,IDX_I,25,true
+FINNIFTY,Fin Nifty,27,IDX_I,40,true
